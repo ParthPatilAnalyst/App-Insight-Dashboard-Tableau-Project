@@ -188,5 +188,4 @@ This Tableau project demonstrates how large-scale app marketplace data can be tr
 
 The analysis confirms that **app success depends more on category demand, engagement, and rating quality than on app size alone**.
 
-* make it ATS-friendly
-* or convert it into a Tableau Public description
+![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard-Tableau-Project/blob/8e406af14b1bdda334a41a893ad836c93393a0c9/Screenshot%202026-03-05%20102504.png)
